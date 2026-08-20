@@ -86,7 +86,9 @@ public class ModMenuIntegration implements ModMenuApi {
                         .build()
                 )
                 .category(ConfigCategory.createBuilder()
-
+                        .name(Component.translatable("gui.material_preparer.category.crafting_steps"))
+                        .tooltip(Component.translatable("gui.material_preparer.category.crafting_steps.tooltip"))
+                        .build()
                 )
                 .category(ConfigCategory.createBuilder()
                         .name(Component.translatable("gui.material_preparer.category.debugging"))

@@ -145,6 +145,10 @@
 - Mod Menu
 - YACL (Yet Another Config Lib) v3
 
+## AI 披露
+
+图标、文档、部分代码和翻译由 AI 生成。
+
 ## 许可证
 
 MIT License
